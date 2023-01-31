@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   # Gems that must be intalled for sift to compile and build
   s.add_development_dependency "rspec", "~> 2.0"
   s.add_development_dependency "webmock", "~>  1.0"
-  s.add_development_dependency("rake", "~> 11.0")
+  s.add_development_dependency("rake", "~> 13.0")
 
   # Gems that must be intalled for sift to work
   s.add_dependency "httparty", "~> 0.13.1"
